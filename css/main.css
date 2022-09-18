@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: yekan;
+    src: url(../fonts/iran.ttf);
+}
+
+* {
+    font-family: yekan;
+}
